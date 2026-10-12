@@ -12,7 +12,7 @@ The complete bundle is 101,211,960 bytes.
 The three binary files use Git LFS; `manifest.json` and `meta_005568.json` remain regular Git files.
 The manifest records the payload checksums, tensor checksum, and original checkpoint provenance.
 
-See the [H100 setup and training guide](https://github.com/ifsheldon/nanochat/blob/h100-rlm/dev/H100_RLM.md) for the launch command and experiment configuration.
+See the [H100 setup and training guide](https://github.com/ifsheldon/nanochat/blob/h100-rlm/dev/h100-training/H100_RLM.md) for the launch command and experiment configuration.
 
 ## Maintain the bundle
 
